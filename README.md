@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Merhaba ben Yunus Emre Öztürk. Adıyaman Üniversitesi Bilgisayar programcılığından mezun oldum
-### Kendimi Front-end alanında geliştirmeye çalışıyorum
-### Şimdiye kadar HTML ve CSS öğrendim ve öğrenmeye devam ediyorum
-### Öğrendiklerim ile beraber uygulamalar yapmaya ve daha da geliştirmeye çalışıyorum
+##### Merhaba ben Yunus Emre Öztürk. Adıyaman Üniversitesi Bilgisayar programcılığından mezun oldum
+##### Kendimi Front-end alanında geliştirmeye çalışıyorum
+##### Şimdiye kadar HTML ve CSS öğrendim ve öğrenmeye devam ediyorum
+##### Öğrendiklerim ile beraber uygulamalar yapmaya ve daha da geliştirmeye çalışıyorum
