@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ##### 💬 Merhaba ben Yunus Emre Öztürk. Adıyaman Üniversitesi Bilgisayar programcılığından mezun oldum  
 ##### ⚡ Kendimi Front-end alanında geliştirmeye çalışıyorum
 ##### ⚡ Şimdiye kadar HTML ve CSS öğrendim ve öğrenmeye devam ediyorum
-##### ⚡ Öğrendiklerim ile beraber uygulamalar yapmaya ve daha da geliştirmeye çalışıyorum
+##### ⚡ Öğrendiklerim ile beraber uygulamalar yapmaya çalışıyorum
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-%C3%B6zt%C3%BCrk-83a794250/)
